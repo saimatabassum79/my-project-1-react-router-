@@ -5,7 +5,7 @@ import { Link } from 'react-router';
 
 const ProductCard = ({ product }) => {
     return (
-        <Link to={`/shopNow/${product.id}`}><div className='relative border border-gray-200 h-[320px] rounded-md'>
+        <Link to={`/shopNow/${product.id}`}><div className='relative border border-gray-200  rounded-md'>
             <img src={product.image} alt="" srcset="" />
             {product.discount > 0 && (
                 <span className="ml-auto absolute top-3 left-3 bg-red-100 text-red-600 text-xs font-semibold px-2 py-0.5 rounded-full">

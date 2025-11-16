@@ -26,7 +26,7 @@
   },
   {
     "id": 2,
-    "name": "Stylish Men’s Casual Shirt",
+    "name": "Stylish Men’s Casual Shirt and latest item",
     "categoryId": 2,
     "categoryName": "Clothes",
     "price": 899.0,
@@ -51,7 +51,7 @@
   },
   {
     "id": 3,
-    "name": "Classic Wrist Watch for Men",
+    "name": "Classic and latest  Wrist Watch for Men ",
     "categoryId": 3,
     "categoryName": "Watches",
     "price": 1999.0,
@@ -120,7 +120,7 @@
   },
   {
     "id": 6,
-    "name": "Makeup Kit Combo Set",
+    "name": "Makeup Kit Combo Set and trendy products ",
     "categoryId": 6,
     "categoryName": "Cosmatics",
     "price": 1249.0,
@@ -143,7 +143,7 @@
   },
   {
     "id": 7,
-    "name": "Organic Brown Eggs (12 pcs)",
+    "name": "Organic Brown Eggs (12 pcs) and organic products ",
     "categoryId": 1,
     "categoryName": "Eggs",
     "price": 249.0,
@@ -166,7 +166,7 @@
   },
   {
     "id": 8,
-    "name": "Men’s Denim Jeans",
+    "name": "Men’s Denim Jeans and men's t-shirt available",
     "categoryId": 2,
     "categoryName": "Clothes",
     "price": 1299.0,
@@ -191,7 +191,7 @@
   },
   {
     "id": 9,
-    "name": "Luxury Gold Watch",
+    "name": "Luxury Gold Watch and luxury sunglass",
     "categoryId": 3,
     "categoryName": "Watches",
     "price": 3299.0,
@@ -213,7 +213,7 @@
   },
   {
     "id": 10,
-    "name": "Women’s Floral Maxi Dress",
+    "name": "Women’s Floral Maxi Dress,formal dress",
     "categoryId": 4,
     "categoryName": "Dresses",
     "price": 1799.0,
