@@ -98,7 +98,7 @@ const Header = () => {
                         <NavLink className={({ isActive }) => isActive ? `cp` : ``} to="/">Home</NavLink>
                         <NavLink className={({ isActive }) => isActive ? `cp` : ``} to="/shop">Shop Now</NavLink>
                         <NavLink className={({ isActive }) => isActive ? `cp` : ``} to="/about">About</NavLink>
-                        <NavLink className={({ isActive }) => isActive ? `cp` : ``} to="/blog">Blog</NavLink>
+                        
                         <NavLink className={({ isActive }) => isActive ? `cp` : ``} to="/contact">Contact</NavLink>
                     </div>
                     <div className='hidden md:flex  cursor-pointer hover:scale-110 transition-all hover:duration-500 items-center gap-2 bg-[#5CAF90] text-white py-2 px-6 rounded-md'>
