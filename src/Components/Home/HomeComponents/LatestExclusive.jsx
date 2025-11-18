@@ -1,6 +1,6 @@
 
 import React from 'react';
-import cover from "../../../assets/image/execulisive colloction.jpg"
+import cover from "../../../assets/image/stylish-girl.jpg"
 const LatestExclusive = () => {
     return (
         <div className='py-24'>
