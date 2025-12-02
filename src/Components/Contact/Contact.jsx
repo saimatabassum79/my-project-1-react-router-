@@ -17,38 +17,7 @@ const Contact = () => {
             </div>
 
             {/* Contact Info Cards */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
-                {/* Phone */}
-                <div className="flex flex-col items-center bg-white border border-gray-200 rounded-lg p-6 shadow-sm hover:shadow-md transition-shadow duration-300">
-                    <div className="text-3xl text-[#5CAF90] bg-green-50 p-3 rounded-full mb-3">
-                        <FaPhone />
-                    </div>
-                    <h3 className="text-lg font-semibold text-gray-800 mb-1">Call Us</h3>
-                    <p className="text-gray-600">01753924093</p>
-                    <p className="text-gray-600">01753924094</p>
-                </div>
-
-                {/* Email */}
-                <div className="flex flex-col items-center bg-white border border-gray-200 rounded-lg p-6 shadow-sm hover:shadow-md transition-shadow duration-300">
-                    <div className="text-3xl text-[#5CAF90] bg-green-50 p-3 rounded-full mb-3">
-                        <MdOutlineMail />
-                    </div>
-                    <h3 className="text-lg font-semibold text-gray-800 mb-1">Email Us</h3>
-                    <p className="text-gray-600">info@example.com</p>
-                    <p className="text-gray-600">support@example.com</p>
-                </div>
-
-                {/* Address */}
-                <div className="flex flex-col items-center bg-white border border-gray-200 rounded-lg p-6 shadow-sm hover:shadow-md transition-shadow duration-300">
-                    <div className="text-3xl text-[#5CAF90] bg-green-50 p-3 rounded-full mb-3">
-                        <CiLocationOn />
-                    </div>
-                    <h3 className="text-lg font-semibold text-gray-800 mb-1">Address</h3>
-                    <p className="text-gray-600 text-center">
-                        Ruami Mello Moraes Filho, 987 - Salvador - MA, 40352, Brazil.
-                    </p>
-                </div>
-            </div>
+            
 
             {/* Map & Contact Form */}
             <div className="flex flex-col lg:flex-row gap-10 items-start">
