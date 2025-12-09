@@ -9,7 +9,7 @@ const Hero = () => {
                     <h3 className='cp text-lg sm:text-xl md:text-2xl font-semibold'>70% Off For This Winter</h3>
                     <h1 className='text-3xl sm:text-4xl md:text-5xl font-semibold ct '>Bigest Sale For Winter<br /> Man & Woman</h1>
                     <Link to="/shop">
-                        <button className='btn bg-[#5CAF90] hover:scale-110 transition-all hover:duration-500 text-gray-100 '>Shop Now</button>
+                        <button className='btn bg-[#5CAF90] border-none hover:scale-110 transition-all hover:duration-500 text-gray-100 '>Shop Now</button>
                     </Link>
                 </div>
             </div>

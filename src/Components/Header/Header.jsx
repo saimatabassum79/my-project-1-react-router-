@@ -49,8 +49,8 @@ const Header = () => {
         <img className='w-16 md:w-22' src={logo} alt="Logo" />
 
         {/* Search */}
-        <div className='w-full md:w-auto order-3 md:order-2 mt-4 md:mt-0'>
-          <label className="input w-full relative">
+        <div className='w-full md:w-auto  order-3 md:order-2 mt-4 md:mt-0'>
+          <label className="input bg-white border border-gray-200 w-full relative">
             <svg className="h-[1em] absolute left-2 top-1/2 -translate-y-1/2 opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
               <g strokeLinejoin="round" strokeLinecap="round" strokeWidth="2.5" fill="none" stroke="currentColor">
                 <circle cx="11" cy="11" r="8"></circle>

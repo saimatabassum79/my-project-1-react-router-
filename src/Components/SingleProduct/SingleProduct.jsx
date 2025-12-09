@@ -49,7 +49,7 @@ const SingleProductPage = () => {
                             <p className='font-semibold mr-3 my-4'>Size : </p>
                             {findProducts?.weightOptions.map(w => (
                                 <div>
-                                    <p ><span className='font-normal text-gray-600 btn btn-xs'>{w}</span></p>
+                                    <p ><span className='font-normal text-gray-100 btn btn-xs'>{w}</span></p>
                                 </div>
                             ))}
                         </div>
@@ -60,7 +60,7 @@ const SingleProductPage = () => {
                                 <p>+</p>
                             </div>
                             <div>
-                                <button className='btn bgp text-gray-100'>Add To Cart</button>
+                                <button className='btn bgp border-none text-gray-100'>Add To Cart</button>
                             </div>
                         </div>
                     </div>
